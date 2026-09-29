@@ -9,3 +9,4 @@
 3. [Домашнее задание 3](topic_03_homework.ipynb) — управляющие конструкции и коллекции.
 4. [Домашнее задание 4](topic_04_homework.ipynb) — функции.
 5. [Домашнее задание 5](homework_05/homework_05.ipynb) — работа с файлами и пакетами. [Результат funnel.csv](homework_05/funnel.csv).
+6. [Домашнее задание 6](homework_06/homework_06.ipynb) — библиотеки NumPy и Pandas.
