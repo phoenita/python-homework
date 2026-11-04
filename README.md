@@ -21,9 +21,9 @@
 
 Файлы с данными лежат в папках соответствующих заданий:
 
-* `homework_06/` и `homework_07/` — `web_clients_correct.csv`, клиенты веб-портала;
-* `homework_08/` — `horse_data.csv` и описание столбцов `horse_data.names`;
-* `homework_10/` — `water.csv`, смертность и жёсткость воды в 61 городе Англии и Уэльса.
+* `homework_06/` и `homework_07/` `web_clients_correct.csv`, клиенты веб-портала;
+* `homework_08/` `horse_data.csv` и описание столбцов `horse_data.names`;
+* `homework_10/` `water.csv`, смертность и жёсткость воды в 61 городе Англии и Уэльса.
 
 ## Запуск
 
